@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+hr {
+    width: 10%;
+    align-self: center;
+    border-style: dotted none none;
+    border-width: 5px;
+    color: blueviolet;
+    margin: 20px auto;
+}
+
+h1 {
+    color : rgb(69, 152, 234);
+}
+
+h3 {
+    color: rgb(69, 152, 234);
+}
